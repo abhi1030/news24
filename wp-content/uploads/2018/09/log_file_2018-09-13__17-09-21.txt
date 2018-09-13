@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: CoverNews Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordp
+Data file = C:\xampp\htdocs\wordp/wp-content/themes/covernews/demo-content/default/covernews.xml
+Widget file = C:\xampp\htdocs\wordp/wp-content/themes/covernews/demo-content/default/covernews.wie
+Customizer file = C:\xampp\htdocs\wordp/wp-content/themes/covernews/demo-content/default/covernews.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
